@@ -39,6 +39,11 @@ p {
   text-align: center;
 }
 
+#box {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
 #neo-china {
   text-decoration: line-through underline overline;
   color: red;
