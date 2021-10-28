@@ -23,8 +23,15 @@ p {
 }
 
 @keyframes nc-color-change {
+  0% {color: red;}
   0% {text-shadow: -0.3rem 0.3rem green, -0.6rem 0.6rem blue;}
-  50% {text-shadow: -0.3rem 0.3rem blue, -0.6rem 0.6rem green;}
+
+  25% {color: blue;}
+  25% {text-shadow: -0.3rem 0.3rem red, -0.6rem 0.6rem green;}
+
+  50% {color: green;}
+  50% {text-shadow: -0.3rem 0.3rem blue, -0.6rem 0.6rem red;}
+  
   100% {text-shadow: -0.3rem 0.3rem green, -0.6rem 0.6rem blue;}
 }
 
