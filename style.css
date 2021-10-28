@@ -23,7 +23,7 @@ p {
   
 }
 
-@keyframes nc-color-change {
+@keyframes rb-color-change {
   0% {color: red;}
   0% {text-shadow: -0.3rem 0.3rem green, -0.6rem 0.6rem blue;}
 
@@ -46,11 +46,11 @@ p {
   margin-right: 10%;
 }
 
-#neo-china {
+.rainbow {
   text-decoration: line-through underline overline;
   color: red;
   text-shadow: -0.3rem 0.3rem blue, -0.6rem 0.6rem green;
-  animation-name: nc-color-change;
+  animation-name: rb-color-change;
   animation-duration: 5s;
   animation-direction: normal;
   animation-iteration-count: infinite;
