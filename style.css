@@ -1,6 +1,7 @@
 body {
   background-color: black;
   text-align: center;
+  font-family: serif;
 }
 
 h1 {
@@ -14,9 +15,8 @@ p {
   font-style: normal;
   text-decoration: line-through underline overline; 
   text-align: justify;
-  font-family: serif;
+  
 }
-
 
 
 .meltdown {
