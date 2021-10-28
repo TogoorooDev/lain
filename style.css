@@ -35,6 +35,10 @@ p {
   100% {text-shadow: -0.3rem 0.3rem green, -0.6rem 0.6rem blue;}
 }
 
+.fin {
+  text-align: center;
+}
+
 #neo-china {
   text-decoration: line-through underline overline;
   color: red;
