@@ -46,7 +46,7 @@ p {
 }
 
 .rainbow {
-  text-decoration: line-through underline overline;
+  text-decoration: underline overline;
   color: red;
   text-shadow: -0.3rem 0.3rem blue, -0.6rem 0.6rem green;
   animation-name: rb-color-change;
