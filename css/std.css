@@ -1,3 +1,6 @@
+/*	standard css file. Think of this as the default
+	toolkit for pages on this site */
+	
 body {
   background-color: black;
   text-align: center;
@@ -16,7 +19,6 @@ p {
   text-decoration: line-through underline overline; 
   
 }
-
 
 .meltdown {
   

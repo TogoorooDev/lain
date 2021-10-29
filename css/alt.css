@@ -1,0 +1,16 @@
+/* 	
+	This css is for alternate pages, i.e. pages that 
+	break the default style for a dramatic purpose (	
+	dmz pages).
+*/
+body {
+  background-color: black;
+  text-align: center;
+  font-family: sans-serif;
+  color: white;
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
